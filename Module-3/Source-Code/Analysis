@@ -1,18 +1,17 @@
-# Module 3: More Kotlin Fundamentals
+Module 3: More Kotlin Fundamentals
 
 This module covers intermediate Kotlin programming concepts, including
 generic classes, enum classes, data classes, singleton and companion
 objects, interfaces, extension properties, scope functions, and
 collections.
 
-## Activities Completed
-
-- Created a reusable generic Question class
-- Used an enum class for difficulty levels
-- Used a data class to represent questions and events
-- Used a companion object to track quiz progress
-- Implemented an interface and progress bar
-- Used the let and apply scope functions
-- Stored events in a mutable list
-- Filtered and grouped collection elements
-- Created an extension property for event duration
+Activities Completed
+Created a reusable generic Question class
+Used an enum class for difficulty levels
+Used a data class to represent questions and events
+Used a companion object to track quiz progress
+Implemented an interface and progress bar
+Used the let and apply scope functions
+Stored events in a mutable list
+Filtered and grouped collection elements
+Created an extension property for event duration
