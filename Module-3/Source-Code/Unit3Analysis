@@ -1,0 +1,4 @@
+Unit 3 Analysis
+In Unit 3, I learned about Kotlin classes, collections, scrollable lists, and animations. Data classes helped me organize related information, while collections made it easier to store and manage multiple items.
+In the Affirmations app, I used `LazyColumn` to display a scrollable list of images and text. In the Woof app, I learned how state and animation can show or hide information smoothly.
+Overall, this unit helped me understand how Kotlin data and Jetpack Compose work together to create organized and interactive Android applications.
